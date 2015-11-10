@@ -1,3 +1,3 @@
-def print_something
-  puts "something"
+def print_nothing
+  puts "Nothing"
 end
